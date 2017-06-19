@@ -8,3 +8,13 @@
     border: 2px black solid;
     font: bold 185%/95% Bernard MT, serif;
 }
+.qty{
+    border:2px black solid;
+}
+.r{
+    border-bottom: 2px black solid;
+    margin: 10px;
+}
+.ru{
+    margin: 10px;
+}
