@@ -22,3 +22,11 @@
      color:white;
     text-shadow:2px 2px 4px #000000;
 }
+.kep{
+     -webkit-transition: width 2s, height 2s, -webkit-transform 2s; /* Safari */
+    transition: width 2s, height 2s, transform 2s;
+}
+.kep:hover{
+    -webkit-transform: rotate(180deg); /* Safari */
+    transform: rotate(180deg);
+}
