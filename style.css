@@ -1,6 +1,10 @@
 .gradient{
-    background: linear-gradient(red, yellow);
+    background: linear-gradient(lightblue, lightgray);
 }
 .logo{
     width: 70%;
+}
+.fontos{
+    border: 2px black solid;
+    font: bold 185%/95% Bernard MT, serif;
 }
